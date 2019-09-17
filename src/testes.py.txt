@@ -13,7 +13,7 @@ else:
 		else:
 			for elemneto in linha:
 				if elemento != '.':
-'					erroinicializar = true
+					erroinicializar = true
 if erro inicializar:
 	sys.exit(1)
 else:
